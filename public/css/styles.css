@@ -1,0 +1,256 @@
+.Slide{
+    text-align:center;
+    background-image: url("../images/slide-shop-02.jpg");
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-top: 20%;
+}
+.Slide>h1{
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 30px;
+   
+}
+.Slide>a{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: red;
+    text-decoration: none;
+    color:aliceblue;
+}
+.Slide>a:hover{
+    background: #fff;
+    color: black;
+}
+
+.content>.container>.row>.col-md-12>h3{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 55px;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>p>a{
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    background-color:#fff;
+    margin-left: 200px;
+    padding: 5px 20px;
+    
+}
+.content>.container2{
+    text-align: center;
+    background-image: url("../images/shop-parallax-3.jpg");
+    height: 50vh;
+    padding-top: 10%;
+    color: aliceblue;
+}
+.content>.container2>a{
+    border-radius: 20px;
+    background-color:red;
+    color: aliceblue;
+    padding: 5px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.content>.container2>a:hover{
+    background: #fff;
+    color: black;
+}
+.content>.container>.row>.col-md-12>h5{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 55px;
+}
+.content>.container>.row>.col-md-12>.row>.col-md-3>a{
+    text-align: center;
+    margin-top: 20px;
+}
+footer>.container>.row>.col-md-4>.items{
+    display:flex;
+}
+footer{
+    background-color:#202020 ;
+    color: #999;
+    padding: 65px 0 0 0;
+}
+footer>.container>.row>.col-md-5>a{
+    margin-top: 12px;
+    margin-bottom: 50px;
+    color:#fff ;
+    border-radius: 50px;
+    background-color:  #3b5998;
+    padding: 5px 10px;
+    position: relative;
+    top: 4px;
+}
+footer>.container>.row>.col-md-5>h4{
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+footer>.container>.row>.col-md-5>p{
+    line-height: 29px;
+    margin: 0 0 17px;
+}
+.content>.container>.row>.col-md-12>.items{
+    display: flex;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>p{
+    background-image: url("../images/shop-demo-category-01.jpg");
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 520px;
+}
+footer>.container>.row>.col-md-4>h4{
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+footer>.container>.row>.col-md-3>h4{
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+footer>.container>.row>.col-md-3>.text>span{
+    color: #fff;
+}
+footer>.container>.row>.col-md-4>.items>li>a{
+    color: #999;
+}
+footer>.col-md-12>p{
+    text-align: center;
+    padding-bottom: 50px;
+    border-top: 1px #999 solid ;
+    padding-top: 55px;
+    margin-top: 55px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+footer>.col-md-12>p>span{
+    color:#fff;
+}
+.content>.container>.row>.col-md-4>.items{
+    display: flex;
+    color: #fff;
+}
+.content>.container>.row>.col-md-4>.items>i{
+    margin-right: 10px;
+    
+}
+.content>.container>.row>.col-md-4{
+    background-color: #999;
+}
+.content>.container>.row>.col-md-4>.row>.col-md-6>span{
+    -webkit-text-stroke: #999;
+}
+.content>.container>.row>.col-md-4>.row>.col-md-6>img{
+    margin-bottom: 40px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.content>.container>.row>.col-md-4>.items{
+margin-top: 55px;
+margin-bottom: 30px;
+border-bottom: 1px #fff solid;
+}
+.content>.container>.row>.col-md-12>.row>.col-md-3>.items{
+    text-align: center;
+    padding-top: 20px;
+    border: 1px #999 solid;
+    margin-bottom: 70px;
+}
+.content>.container>.row>.col-md-12>.row>.col-md-3>.items>p>span{
+    background-color: yellow;
+}
+.content>.container>.row>.col-md-12>.row>.col-md-3>.items>a{
+ margin-bottom: 20px;
+ color: black;
+}
+.content>.container>.row>.col-md-4>.row>.col-md-6>p>span{
+    background-color: yellow;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>p{
+    padding-top: 420px;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>.row>.col-md-6>.items1>p>a{
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    background-color:#fff;
+    margin-left: 90px;
+    padding: 5px 20px;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>.row>.col-md-6>.items2>p>a{
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    background-color:#fff;
+    margin-left: 80px;
+    padding: 5px 20px;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>.row>.col-md-6>.items3>p>a{
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    background-color:#fff;
+    margin-left: 90px;
+    padding: 5px 20px;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>.row>.col-md-6>.items4>p>a{
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    background-color:#fff;
+    margin-left: 80px;
+    padding: 5px 20px;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>.row>.col-md-6>.items1>p{
+    background-image: url("../images/shop-demo-category-02.jpg");
+    height: 50vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding-top: 170px;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>.row>.col-md-6>.items2>p{
+    background-image: url("../images/shop-demo-category-03.jpg");
+    height: 50vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding-top: 170px;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>.row>.col-md-6>.items3>p{
+    background-image: url("../images/shop-demo-category-04.jpg");
+    height: 50vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding-top: 170px;
+}
+.content>.container>.row>.col-md-12>.items>.col-md-6>.row>.col-md-6>.items4>p{
+    background-image: url("../images/shop-demo-category-05.jpg");
+    height: 50vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding-top: 180px;
+}
+.content>.container>.row{
+    padding-bottom: 55px;
+}
+li {
+    list-style-type: none;
+}
